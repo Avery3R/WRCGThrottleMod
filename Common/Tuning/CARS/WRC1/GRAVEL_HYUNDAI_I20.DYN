@@ -1,0 +1,419 @@
+<InstanceOf value="" />
+<WrcCarRigidbody>
+	<props>
+		<prop name="AngularDamping" value="0" />
+		<prop name="CenterOfMassOffset" value="0.0000;-0.1260;0.3800" />
+		<prop name="LinearDamping" value="0" />
+		<prop name="Mass" value="1580" />
+		<prop name="MaxAngularVelocity" value="15" />
+	</props>
+</WrcCarRigidbody>
+<WrcVehicleSDK>
+	<props>
+		<prop name="ABS AntiStoppie Bias" value="100" />
+		<prop name="ABS AntiStoppie Enable" value="0" />
+		<prop name="ABS AntiStoppie Sharpness" value="0.01" />
+		<prop name="ABS Enable" value="0" />
+		<prop name="ABS Front Bias" value="0.01" />
+		<prop name="ABS Front Sharpness" value="3" />
+		<prop name="ABS Rear Bias" value="0.01" />
+		<prop name="ABS Rear Sharpness" value="3" />
+		<prop name="Additional Drag Force Throttle OFF" value="-1" />
+		<prop name="Aero Drag force(N) at saturation speed" value="-1" />
+		<prop name="Aero saturation speed KMH" value="-1" />
+		<prop name="AeroFrontWingCx" value="0.45" />
+		<prop name="AeroFrontWingCz" value="0.18" />
+		<prop name="AeroFrontWingRelativePosition" value="1" />
+		<prop name="AeroFrontWingSurface" value="2.161" />
+		<prop name="AeroRearWingCx" value="0" />
+		<prop name="AeroRearWingCz" value="0.22" />
+		<prop name="AeroRearWingRelativePosition" value="1" />
+		<prop name="AeroRearWingSurface" value="2.161" />
+		<prop name="AeroSideSurface" value="5.39" />
+		<prop name="AeroTopBottomSurface" value="7.6875" />
+		<prop name="Allow brakes heating" value="1" />
+		<prop name="Allow engine heating" value="0" />
+		<prop name="Allow fuel consumption" value="0" />
+		<prop name="Allow progressive clutch" value="0" />
+		<prop name="Allow soft tires" value="1" />
+		<prop name="Allow soft tires visual" value="1" />
+		<prop name="Allow tire heating" value="0" />
+		<prop name="Auto box Allow Multiple ShiftDown" value="0" />
+		<prop name="Auto Gearbox Down ratios" value="0.5,0.5,0.45,0.45,0.5,0.5" />
+		<prop name="Auto Gearbox Enable Proto" value="0" />
+		<prop name="Auto Gearbox Latency Time" value="0.1" />
+		<prop name="Auto Gearbox Max slip allowed up/down Pct" value="45" />
+		<prop name="Auto Gearbox Min compression ratio to Allow shift" value="0.02" />
+		<prop name="Auto Gearbox Slip Allowed Pct" value="100,90,50,40" />
+		<prop name="Auto Gearbox Up ratios" value="0.35,0.92" />
+		<prop name="AutoBoxAccelRPMScaleBias" value="1" />
+		<prop name="Backward Top speed limiter KPH" value="1000" />
+		<prop name="Boost max speed KMH" value="0" />
+		<prop name="Boost power" value="0" />
+		<prop name="Central elec Engine internal ratio" value="1.4" />
+		<prop name="Central elec Engine Max Omega (rad/s)" value="1200" />
+		<prop name="Central elec Engine Peak torque" value="180" />
+		<prop name="Central elec Engine torque curve length" value="19" />
+		<prop name="Central elec Engine torque curve P1" value="0.0000;1.0000" />
+		<prop name="Central elec Engine torque curve P10" value="0.6660;0.6400" />
+		<prop name="Central elec Engine torque curve P11" value="0.7000;0.6100" />
+		<prop name="Central elec Engine torque curve P12" value="0.7330;0.5800" />
+		<prop name="Central elec Engine torque curve P13" value="0.7660;0.5500" />
+		<prop name="Central elec Engine torque curve P14" value="0.8000;0.5300" />
+		<prop name="Central elec Engine torque curve P15" value="0.8300;0.5100" />
+		<prop name="Central elec Engine torque curve P16" value="0.8600;0.4900" />
+		<prop name="Central elec Engine torque curve P17" value="0.9000;0.4700" />
+		<prop name="Central elec Engine torque curve P18" value="0.9660;0.4600" />
+		<prop name="Central elec Engine torque curve P19" value="1.0000;0.4400" />
+		<prop name="Central elec Engine torque curve P2" value="0.4000;1.0000" />
+		<prop name="Central elec Engine torque curve P20" value="0.0000;0.0000" />
+		<prop name="Central elec Engine torque curve P3" value="0.4300;0.9900" />
+		<prop name="Central elec Engine torque curve P4" value="0.4600;0.9200" />
+		<prop name="Central elec Engine torque curve P5" value="0.4900;0.8600" />
+		<prop name="Central elec Engine torque curve P6" value="0.5300;0.8000" />
+		<prop name="Central elec Engine torque curve P7" value="0.5600;0.7600" />
+		<prop name="Central elec Engine torque curve P8" value="0.6000;0.7100" />
+		<prop name="Central elec Engine torque curve P9" value="0.6330;0.6700" />
+		<prop name="Central electrical isActive" value="1" />
+		<prop name="Central Max Torque Accel" value="175" />
+		<prop name="Central Max Torque Brake" value="175" />
+		<prop name="Central Max Torque Default" value="175" />
+		<prop name="Central Max Torque Release" value="175" />
+		<prop name="Central slip Bias" value="0.01" />
+		<prop name="Central slip Max Torque" value="30" />
+		<prop name="Chassis inertia tensor" value="1.5400;0.4300;1.7900" />
+		<prop name="Chassis Stabilisation Always active" value="0" />
+		<prop name="ChassisGroundCz" value="0.2" />
+		<prop name="ChassisGroundEffectBalance" value="0.5" />
+		<prop name="ChassisToRoadFrictionCoef" value="0" />
+		<prop name="Chasssis Stabilisation Damping by axes" value="0.0000;0.0000;0.0000" />
+		<prop name="Chasssis Stabilisation Strength by axes" value="0.0000;0.0000;0.0000" />
+		<prop name="Chasssis Stabilisation Strength when flying" value="0" />
+		<prop name="Clutch strength" value="100" />
+		<prop name="CounterSteerSpeedLimit  Override for filtering" value="-1" />
+		<prop name="Differential activate torque ratio proto" value="0" />
+		<prop name="Differential FrontLeftRightSplit" value="0.5" />
+		<prop name="Differential FrontLeftRightSplit Load Factor" value="0" />
+		<prop name="Differential FrontLeftRightSplit Steer Factor" value="0" />
+		<prop name="Differential FrontRearSplit" value="0.5" />
+		<prop name="Differential RearLeftRightSplit" value="0.5" />
+		<prop name="Differential RearLeftRightSplit Load Factor" value="0" />
+		<prop name="Differential RearLeftRightSplit Steer Factor" value="0" />
+		<prop name="Differential type" value="LS_4WD" />
+		<prop name="Drag Aero saturation speed KMH" value="-1" />
+		<prop name="Enable Flying  Test " value="0" />
+		<prop name="EnableShockAbsorberConstraint" value="1" />
+		<prop name="EnableShockAbsorberPxConstraintPostHack" value="1" />
+		<prop name="Engine idling Omega(rad/s) " value="80" />
+		<prop name="Engine ignition time" value="0" />
+		<prop name="Engine Max Omega (rad/s)" value="890" />
+		<prop name="Engine min speed to work KPH" value="0" />
+		<prop name="Engine Moment of inertia" value="0.05" />
+		<prop name="Engine Peak torque" value="122" />
+		<prop name="Engine torque curve length" value="16" />
+		<prop name="Engine torque curve P1" value="0.0000;0.5000" />
+		<prop name="Engine torque curve P10" value="0.7147;0.9439" />
+		<prop name="Engine torque curve P11" value="0.7423;0.8929" />
+		<prop name="Engine torque curve P12" value="0.8000;0.7680" />
+		<prop name="Engine torque curve P13" value="0.8530;0.7070" />
+		<prop name="Engine torque curve P14" value="0.9070;0.6530" />
+		<prop name="Engine torque curve P15" value="0.9479;0.5469" />
+		<prop name="Engine torque curve P16" value="1.0000;0.5255" />
+		<prop name="Engine torque curve P17" value="0.0000;0.0000" />
+		<prop name="Engine torque curve P18" value="0.0000;0.0000" />
+		<prop name="Engine torque curve P19" value="0.0000;0.0000" />
+		<prop name="Engine torque curve P2" value="0.1070;0.6000" />
+		<prop name="Engine torque curve P20" value="0.0000;0.0000" />
+		<prop name="Engine torque curve P3" value="0.2880;0.9200" />
+		<prop name="Engine torque curve P4" value="0.3200;0.9500" />
+		<prop name="Engine torque curve P5" value="0.4270;0.9800" />
+		<prop name="Engine torque curve P6" value="0.4800;0.9950" />
+		<prop name="Engine torque curve P7" value="0.5330;1.0000" />
+		<prop name="Engine torque curve P8" value="0.6400;1.0000" />
+		<prop name="Engine torque curve P9" value="0.6871;0.9770" />
+		<prop name="EngineDampingRateFullThrottle" value="0.001" />
+		<prop name="EngineDampingRateZeroThrottleClutchDisengaged " value="0.05" />
+		<prop name="EngineDampingRateZeroThrottleClutchEngaged " value="0.3" />
+		<prop name="EngineEfficiency" value="1" />
+		<prop name="Extra grip on brake" value="0.35" />
+		<prop name="Front Aero Downforce(kg) at saturation speed" value="-1" />
+		<prop name="Front Anti-Roll bar strength " value="0" />
+		<prop name="Front elec Engine internal ratio" value="0" />
+		<prop name="Front elec Engine Max Omega (rad/s)" value="565" />
+		<prop name="Front elec Engine Peak torque" value="0" />
+		<prop name="Front elec Engine torque curve length" value="18" />
+		<prop name="Front elec Engine torque curve P1" value="0.0000;1.0000" />
+		<prop name="Front elec Engine torque curve P10" value="0.5294;0.8765" />
+		<prop name="Front elec Engine torque curve P11" value="0.5882;0.8235" />
+		<prop name="Front elec Engine torque curve P12" value="0.6471;0.7574" />
+		<prop name="Front elec Engine torque curve P13" value="0.7059;0.6765" />
+		<prop name="Front elec Engine torque curve P14" value="0.7647;0.5794" />
+		<prop name="Front elec Engine torque curve P15" value="0.8235;0.4647" />
+		<prop name="Front elec Engine torque curve P16" value="0.8824;0.3309" />
+		<prop name="Front elec Engine torque curve P17" value="0.9412;0.1765" />
+		<prop name="Front elec Engine torque curve P18" value="1.0000;0.0000" />
+		<prop name="Front elec Engine torque curve P19" value="0.0000;0.0000" />
+		<prop name="Front elec Engine torque curve P2" value="0.0588;1.0000" />
+		<prop name="Front elec Engine torque curve P20" value="0.0000;0.0000" />
+		<prop name="Front elec Engine torque curve P3" value="0.1176;1.0000" />
+		<prop name="Front elec Engine torque curve P4" value="0.1765;0.9985" />
+		<prop name="Front elec Engine torque curve P5" value="0.2353;0.9941" />
+		<prop name="Front elec Engine torque curve P6" value="0.2941;0.9853" />
+		<prop name="Front elec Engine torque curve P7" value="0.3529;0.9706" />
+		<prop name="Front elec Engine torque curve P8" value="0.4118;0.9485" />
+		<prop name="Front elec Engine torque curve P9" value="0.4706;0.9176" />
+		<prop name="Front electrical isActive" value="0" />
+		<prop name="Front Max Torque Accel" value="225" />
+		<prop name="Front Max Torque Brake" value="175" />
+		<prop name="Front Max Torque Default" value="225" />
+		<prop name="Front Max Torque Release" value="225" />
+		<prop name="Front slip Bias" value="0.01" />
+		<prop name="Front slip Max Torque" value="30" />
+		<prop name="FuelConsumptionEnabled" value="0" />
+		<prop name="FuelTankCapacityInKG" value="100" />
+		<prop name="Full aquaplaning speed KMH" value="0" />
+		<prop name="Gearbox Accel  curve" value="-3.40282e+38,-3.40282e+38,5,0.0000;0.3367,0.2293;0.3265,0.4618;0.3214,0.8479;1.0000,1.0000;1.0000" />
+		<prop name="Gearbox Clutch curve" value="-3.40282e+38,-3.40282e+38,5,0.0000;1.0000,0.1558;1.0000,0.5000;1.0000,0.5605;0.0000,1.0000;0.0000" />
+		<prop name="Gearbox down switch time" value="0.08" />
+		<prop name="Gearbox final ratio" value="4.15" />
+		<prop name="Gearbox gear change time ratio" value="0.3" />
+		<prop name="Gearbox ratios" value="3.033,2.31,1.87,1.56,1.21" />
+		<prop name="Gearbox reverse ratio" value="4" />
+		<prop name="Gearbox switch time" value="0.1" />
+		<prop name="Handbrake Delay To Lock" value="1000" />
+		<prop name="Hybrid Activated" value="1" />
+		<prop name="Hybrid Battery Capacity In kWh" value="3.9" />
+		<prop name="Hybrid Brake Energy Conversion Ratio" value="0.35" />
+		<prop name="Hybrid Front Wheels Torque Added" value="0" />
+		<prop name="Hybrid Generator Load Torque" value="0" />
+		<prop name="Hybrid Initial Thermal Engine Axles Torque Added" value="0" />
+		<prop name="Hybrid Max Accel To Convert Torque" value="0.8" />
+		<prop name="Hybrid Max Thermal Engine Axles Torque Added" value="0" />
+		<prop name="Hybrid Min Accel To Use Hybrid" value="0.8" />
+		<prop name="Hybrid Min Speed To Use Hybrid KPH" value="1" />
+		<prop name="Hybrid Rear Wheels Torque Added" value="0" />
+		<prop name="Hybrid Speed Activation Full KPH" value="0" />
+		<prop name="Hybrid Speed Activation Start KPH" value="0" />
+		<prop name="Launch control RPM Max" value="550" />
+		<prop name="Manual Gearbox clutched penalty time" value="0" />
+		<prop name="Max Speed Override for filtering KMH" value="-1" />
+		<prop name="MaxFilteredNormalisedLoad" value="2.3" />
+		<prop name="MaxNormalisedLoad" value="3" />
+		<prop name="MinFilteredNormalisedLoad" value="1" />
+		<prop name="MinNormalisedLoad" value="0.3" />
+		<prop name="Need to keep throttle pushed on ignition sequence" value="0" />
+		<prop name="Override Steer curve for filtering" value="0" />
+		<prop name="Override Steer speed curve for filtering" value="0" />
+		<prop name="Progressive clutch only on first gear" value="0" />
+		<prop name="Rear Aero Downforce(kg) at saturation speed" value="-1" />
+		<prop name="Rear Anti-Roll bar strength" value="0" />
+		<prop name="Rear Brake SuspForce Min Limit" value="0" />
+		<prop name="Rear Brake SuspForceOffset Factor" value="0" />
+		<prop name="Rear elec Engine internal ratio" value="0" />
+		<prop name="Rear elec Engine Max Omega (rad/s)" value="565" />
+		<prop name="Rear elec Engine Peak torque" value="0" />
+		<prop name="Rear elec Engine torque curve length" value="3" />
+		<prop name="Rear elec Engine torque curve P1" value="0.0000;1.0000" />
+		<prop name="Rear elec Engine torque curve P10" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P11" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P12" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P13" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P14" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P15" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P16" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P17" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P18" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P19" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P2" value="0.5000;1.0000" />
+		<prop name="Rear elec Engine torque curve P20" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P3" value="1.0000;1.0000" />
+		<prop name="Rear elec Engine torque curve P4" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P5" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P6" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P7" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P8" value="0.0000;0.0000" />
+		<prop name="Rear elec Engine torque curve P9" value="0.0000;0.0000" />
+		<prop name="Rear electrical isActive" value="0" />
+		<prop name="Rear Max Torque Accel" value="225" />
+		<prop name="Rear Max Torque Brake" value="175" />
+		<prop name="Rear Max Torque Default" value="225" />
+		<prop name="Rear Max Torque Release" value="225" />
+		<prop name="Rear slip Bias" value="0.01" />
+		<prop name="Rear slip Max Torque" value="30" />
+		<prop name="RPM Limiter Sharpness" value="0.1" />
+		<prop name="Semi AutoBox Gear Forced Latency" value="0.5" />
+		<prop name="Sharpness" value="-1" />
+		<prop name="ShockAbsorberPxConstraintSpringDamping" value="0" />
+		<prop name="ShockAbsorberPxConstraintSpringStiffness" value="0" />
+		<prop name="ShockAbsorberPxConstraintUseSpring" value="0" />
+		<prop name="Steer curve Override for filtering" value="2,0.0000;1.0000,1.0000;1.0000" />
+		<prop name="Steer speed curve Override for filtering" value="2,0.0000;1.0000,1.0000;0.7500" />
+		<prop name="SteerSpeedLimitDecrease Override for filtering" value="-1" />
+		<prop name="SteerSpeedLimitIncrease Override for filtering" value="-1" />
+		<prop name="SuspDampingMaxForce" value="20000" />
+		<prop name="SuspSpeedSmoothFactor" value="0.5" />
+		<prop name="Thermal Engine isActive" value="1" />
+		<prop name="Tire friction multiplier" value="1" />
+		<prop name="Tire shader grip from weight factor" value="1" />
+		<prop name="Tire slip power lat factor" value="1" />
+		<prop name="Tire slip power long factor" value="1" />
+		<prop name="Tires torque ratios" value="1.0000;1.0000;1.0000" />
+		<prop name="Top speed limiter KPH" value="1000" />
+		<prop name="Torque factor" value="0" />
+		<prop name="TorqueFactor Speed Bias" value="0.1" />
+		<prop name="TorqueFactor Speed Decline" value="28.5" />
+		<prop name="TorqueFactor Speed Full" value="2" />
+		<prop name="TorqueFactor Speed Off" value="57" />
+		<prop name="Traction Control AntiWheeling Bias" value="100" />
+		<prop name="Traction Control AntiWheeling Enable" value="0" />
+		<prop name="Traction Control AntiWheeling Sharpness" value="0.01" />
+		<prop name="Traction Control Bias" value="0.07" />
+		<prop name="Traction Control Enable" value="0" />
+		<prop name="Traction Control Max interpolation Speed KMH" value="60" />
+		<prop name="Traction Control Min Speed KMH" value="17" />
+		<prop name="Traction Control Sharpness" value="5" />
+		<prop name="Turbo Activated" value="1" />
+		<prop name="Turbo Antilag fuel ratio" value="0" />
+		<prop name="Turbo Antilag min turbo RPM" value="95000" />
+		<prop name="Turbo dumpvalve open min turbo RPM" value="100000" />
+		<prop name="Turbo Inertia" value="1" />
+		<prop name="Turbo Load Damping" value="0.01" />
+		<prop name="Turbo max Pressure" value="2.9" />
+		<prop name="Turbo Max RPM" value="150000" />
+		<prop name="Turbo Min TurboRPM To Add Pressure" value="1000" />
+		<prop name="Turbo UnLoad Damping" value="0.5" />
+		<prop name="Use new ExtraGripOnBrake" value="1" />
+		<prop name="UseNewAero" value="1" />
+		<prop name="Vehicle class" value="CLASS_CAR" />
+		<prop name="Vehicle extra gravity (m/s2)" value="0.1" />
+		<prop name="Vehicle gravity (m/s2)" value="9.71" />
+	</props>
+</WrcVehicleSDK>
+<front_left_wheel>
+	<WrcPhysicWheel>
+		<props>
+			<prop name="Brake Bias" value="0.45" />
+			<prop name="camber at max compression" value="-0.1" />
+			<prop name="camber at max drop" value="0" />
+			<prop name="camber at rest" value="0.05" />
+			<prop name="CamberStiffnessPerUnitGravity" value="1" />
+			<prop name="Max Brake Torque" value="2300" />
+			<prop name="Max Hybrid Brake Conversion Power In kW" value="15" />
+			<prop name="Suspension compression Damping" value="7500" />
+			<prop name="Suspension extension Damping" value="6500" />
+			<prop name="Suspension force application Offset" value="0" />
+			<prop name="Suspension huge compression Damping" value="0" />
+			<prop name="Suspension MaxCompression" value="0.34" />
+			<prop name="Suspension MaxDroop" value="0" />
+			<prop name="Suspension Offset" value="-0.2" />
+			<prop name="Suspension Progressive Damping enabled" value="1" />
+			<prop name="Suspension Progressive enabled" value="1" />
+			<prop name="Suspension Progressive End Compression Bias" value="0.05" />
+			<prop name="Suspension Progressive Start Compression Bias" value="0.15" />
+			<prop name="Suspension Progressive Strength enabled" value="1" />
+			<prop name="Suspension Progressive Target ratio" value="2" />
+			<prop name="Suspension Spring Strength" value="25000" />
+			<prop name="Tire Centrifugal factor" value="0.7" />
+			<prop name="Wheel Max Handbrake Torque" value="0" />
+			<prop name="Wheel Max Steer angle" value="0.5" />
+			<prop name="Wheel Radius" value="0.315" />
+			<prop name="X Raycast Offset" value="0.09" />
+		</props>
+	</WrcPhysicWheel>
+</front_left_wheel>
+<front_right_wheel>
+	<WrcPhysicWheel>
+		<props>
+			<prop name="Brake Bias" value="0.45" />
+			<prop name="camber at max compression" value="0.1" />
+			<prop name="camber at max drop" value="0" />
+			<prop name="camber at rest" value="-0.05" />
+			<prop name="CamberStiffnessPerUnitGravity" value="1" />
+			<prop name="Max Brake Torque" value="2300" />
+			<prop name="Max Hybrid Brake Conversion Power In kW" value="15" />
+			<prop name="Suspension compression Damping" value="7500" />
+			<prop name="Suspension extension Damping" value="6500" />
+			<prop name="Suspension force application Offset" value="0" />
+			<prop name="Suspension huge compression Damping" value="0" />
+			<prop name="Suspension MaxCompression" value="0.34" />
+			<prop name="Suspension MaxDroop" value="0" />
+			<prop name="Suspension Offset" value="-0.2" />
+			<prop name="Suspension Progressive Damping enabled" value="1" />
+			<prop name="Suspension Progressive enabled" value="1" />
+			<prop name="Suspension Progressive End Compression Bias" value="0.05" />
+			<prop name="Suspension Progressive Start Compression Bias" value="0.15" />
+			<prop name="Suspension Progressive Strength enabled" value="1" />
+			<prop name="Suspension Progressive Target ratio" value="2" />
+			<prop name="Suspension Spring Strength" value="25000" />
+			<prop name="Tire Centrifugal factor" value="0.7" />
+			<prop name="Wheel Max Handbrake Torque" value="0" />
+			<prop name="Wheel Max Steer angle" value="0.5" />
+			<prop name="Wheel Radius" value="0.315" />
+			<prop name="X Raycast Offset" value="0.09" />
+		</props>
+	</WrcPhysicWheel>
+</front_right_wheel>
+<rear_left_wheel>
+	<WrcPhysicWheel>
+		<props>
+			<prop name="Brake Bias" value="0.45" />
+			<prop name="camber at max compression" value="-0.1" />
+			<prop name="camber at max drop" value="0" />
+			<prop name="camber at rest" value="0.05" />
+			<prop name="CamberStiffnessPerUnitGravity" value="1" />
+			<prop name="Max Brake Torque" value="2300" />
+			<prop name="Max Hybrid Brake Conversion Power In kW" value="0" />
+			<prop name="Suspension compression Damping" value="7500" />
+			<prop name="Suspension extension Damping" value="6500" />
+			<prop name="Suspension force application Offset" value="0" />
+			<prop name="Suspension huge compression Damping" value="0" />
+			<prop name="Suspension MaxCompression" value="0.34" />
+			<prop name="Suspension MaxDroop" value="0" />
+			<prop name="Suspension Offset" value="-0.2" />
+			<prop name="Suspension Progressive Damping enabled" value="1" />
+			<prop name="Suspension Progressive enabled" value="1" />
+			<prop name="Suspension Progressive End Compression Bias" value="0.05" />
+			<prop name="Suspension Progressive Start Compression Bias" value="0.15" />
+			<prop name="Suspension Progressive Strength enabled" value="1" />
+			<prop name="Suspension Progressive Target ratio" value="2" />
+			<prop name="Suspension Spring Strength" value="20000" />
+			<prop name="Tire Centrifugal factor" value="0.7" />
+			<prop name="Wheel Max Handbrake Torque" value="2400" />
+			<prop name="Wheel Max Steer angle" value="0" />
+			<prop name="Wheel Radius" value="0.315" />
+			<prop name="X Raycast Offset" value="0.09" />
+		</props>
+	</WrcPhysicWheel>
+</rear_left_wheel>
+<rear_right_wheel>
+	<WrcPhysicWheel>
+		<props>
+			<prop name="Brake Bias" value="0.45" />
+			<prop name="camber at max compression" value="0.1" />
+			<prop name="camber at max drop" value="0" />
+			<prop name="camber at rest" value="-0.05" />
+			<prop name="CamberStiffnessPerUnitGravity" value="1" />
+			<prop name="Max Brake Torque" value="2300" />
+			<prop name="Max Hybrid Brake Conversion Power In kW" value="0" />
+			<prop name="Suspension compression Damping" value="7500" />
+			<prop name="Suspension extension Damping" value="6500" />
+			<prop name="Suspension force application Offset" value="0" />
+			<prop name="Suspension huge compression Damping" value="0" />
+			<prop name="Suspension MaxCompression" value="0.34" />
+			<prop name="Suspension MaxDroop" value="0" />
+			<prop name="Suspension Offset" value="-0.2" />
+			<prop name="Suspension Progressive Damping enabled" value="1" />
+			<prop name="Suspension Progressive enabled" value="1" />
+			<prop name="Suspension Progressive End Compression Bias" value="0.05" />
+			<prop name="Suspension Progressive Start Compression Bias" value="0.15" />
+			<prop name="Suspension Progressive Strength enabled" value="1" />
+			<prop name="Suspension Progressive Target ratio" value="2" />
+			<prop name="Suspension Spring Strength" value="20000" />
+			<prop name="Tire Centrifugal factor" value="0.7" />
+			<prop name="Wheel Max Handbrake Torque" value="2400" />
+			<prop name="Wheel Max Steer angle" value="0" />
+			<prop name="Wheel Radius" value="0.315" />
+			<prop name="X Raycast Offset" value="0.09" />
+		</props>
+	</WrcPhysicWheel>
+</rear_right_wheel>
